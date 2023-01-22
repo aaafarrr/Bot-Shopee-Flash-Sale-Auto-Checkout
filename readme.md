@@ -81,7 +81,7 @@
 <!-- Features -->
 ### :dart: Features
 
-- Auto Checkout Item.
+- Auto Checkout.
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
