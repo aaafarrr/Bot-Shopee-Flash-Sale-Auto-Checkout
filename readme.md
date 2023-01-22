@@ -12,13 +12,13 @@
     <a href="https://visitor-badge.glitch.me/badge?page_id=aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout">
       <img src="https://visitor-badge.glitch.me/badge?page_id=aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout" alt="visitor" />
     </a>
-    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutgraphs/contributors">
+    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout" alt="contributors" />
     </a>
     <a href="">
       <img src="https://img.shields.io/github/last-commit/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout" alt="last update" />
     </a>
-    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutnetwork/members">
+    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/network/members">
       <img src="https://img.shields.io/github/forks/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout" alt="forks" />
     </a>
     <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutstargazers">
@@ -27,7 +27,7 @@
     <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutissues/">
       <img src="https://img.shields.io/github/issues/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout" alt="open issues" />
     </a>
-    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutblob/master/LICENSE">
+    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout.svg" alt="license" />
     </a>
   </p>
@@ -37,9 +37,9 @@
     <span> · </span>
     <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout">Documentation</a>
     <span> · </span>
-    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutissues/">Report Bug</a>
+    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/issues/">Report Bug</a>
     <span> · </span>
-    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutissues/">Request Feature</a>
+    <a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -110,7 +110,7 @@ Run
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkoutgraphs/contributors">
+<a href="https://github.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout" />
 </a>
 
